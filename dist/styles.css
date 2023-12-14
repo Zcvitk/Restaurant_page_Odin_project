@@ -76,8 +76,8 @@ for a new working day and allow your body to take a break from daily intake of f
 
 /*restaurant picture on homepage*/
   #divPic {
-    width: 50%;
-    height: 50%;
+    width: 47%;
+    height: 47%;
     border: 2pt;
     padding: 10px;
     text-align: justify;
@@ -111,10 +111,11 @@ for a new working day and allow your body to take a break from daily intake of f
     margin: 0 auto;
     cursor: pointer;
     text-align: center;
-    font-family: "Sofia", sans-serif;
+    font-family: "Arial", sans-serif;
+    backdrop-filter: blur(5px);
     font-size: 25px;
-    color: rgb(22, 19, 19);
-    text-shadow: 2px 2px #c0f5c3;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px #bbeebe;
     margin-top: 20px; 
   }
   
